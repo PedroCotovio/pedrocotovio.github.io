@@ -63,7 +63,6 @@ My interest go much further than these topics, so if you would like to collabora
 
 [comment]: <> (## Publications)
 
-[comment]: <> (1. **Ruben Branco**, Diogo F. Soares, Andreia S. Martins, Eleonora Auletta, Eduardo N. Castanho, Susana Nunes, Filipa Serrano, Rita T. Sousa, Catia Pesquita, Sara C. Madeira and Helena Aidos, "Hierarchical Modelling for ALS Prognosis: Predicting the Progression Towards Critical Events", In Working Notes of CLEF 2022 -- Conference and Labs of the Evaluation Forum.)
 ## Contact
 
 You may contact me at: pgcotovio [at] ciencias.ulisboa.pt
