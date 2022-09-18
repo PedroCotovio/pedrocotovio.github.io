@@ -37,9 +37,9 @@ I am currently mainly interested Neuro-Symbolic AI but my interests expand to al
 
 My interest go much further than these topics, so if you would like to collaborate on any problem that I might be of use, feel free to [contact me](#contact).
 
-[comment]: <> (## Teaching)
+## Teaching
 
-[comment]: <> (## 2021/2022)
+## 2022/2023
 
 [comment]: <> (### Intelligent Systems, Faculty of Sciences of the University of Lisbon)
 
@@ -53,11 +53,11 @@ My interest go much further than these topics, so if you would like to collabora
 
 [comment]: <> (Class focuses on more advanced topics such as Ensemble Learning, Markov Models, Deep Learning and Reinforcement Learning.)
 
-[comment]: <> (### Machine Learning, Faculty of Sciences of the University of Lisbon)
+### Programming I, Faculty of Sciences of the University of Lisbon
 
-[comment]: <> (Taught Theoretical-Practical classes, offered to 8 Masters Programs and 1 PhD Program in the 1st Semester.)
+Teaching Theoretical-Practical classes, offered to first year students of 7 Bachelor Programs.
 
-[comment]: <> (Class focuses on Supervised & Unsupervised Learning fundamentals.)
+Class focuses on programming fundamentals.
 
 [comment]: <> (## Science Communication)
 
