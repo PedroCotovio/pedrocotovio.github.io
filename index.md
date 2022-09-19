@@ -63,6 +63,10 @@ Class focuses on programming fundamentals.
 
 [comment]: <> (## Publications)
 
+## Office Hours
+
+To make an appointment during office hours click [here](https://doodle.com/bp/pedrocotovio/-consultation-hours).
+
 ## Contact
 
 You may contact me at: pgcotovio [at] ciencias.ulisboa.pt
