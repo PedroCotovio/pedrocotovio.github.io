@@ -5,7 +5,7 @@ title: Pedro Cotovio
 
 ## About Me
 
-<img class="profile-picture" src="me.jpg">
+<img class="profile-picture" src="me.jpeg">
 
 I am a PhD student at the <a target="_blank" href="https://ciencias.ulisboa.pt/">Faculty of Sciences of the University of Lisbon</a> (FCUL), conducting research at <a target="_blank" href="https://www.lasige.pt/">LASIGE</a>. I am supervised by <a target="_blank" href="http://www.di.fc.ul.pt/~catiapesquita/">Professor Catia Pesquita</a> from FCUL and <a target="_blank" href="https://www.city.ac.uk/about/people/academics/ernesto-jimenez-ruiz">Dr Ernesto Jiménez-Ruiz</a> Lecturer of Artificial Intelligence at <a target="_blank" href="https://www.city.ac.uk/about/schools/science-technology">School of Science & Technology of City, University of London </a>.
 
