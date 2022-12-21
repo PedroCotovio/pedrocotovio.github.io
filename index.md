@@ -57,7 +57,7 @@ My interest go much further than these topics, so if you would like to collabora
 
 Teaching Theoretical-Practical classes, offered to first year students of 7 Bachelor Programs.
 
-Class focuses on programming fundamentals.
+Course focuses on programming fundamentals.
 
 [comment]: <> (## Science Communication)
 
