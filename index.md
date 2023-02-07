@@ -39,27 +39,27 @@ My interest go much further than these topics, so if you would like to collabora
 
 ## Teaching
 
-## 2022/2023
+### 2022/2023, Faculty of Sciences of the University of Lisbon
 
-### Computer Networks, Faculty of Sciences of the University of Lisbon (2nd Semester)
+#### Computer Networks, 2nd Semester
 
 Teaching Theoretical-Pratical classes, offered to students of Information Technologies.
 
 Course covers computer networks fundamentals.
 
-### Knowledge Engineering, Faculty of Sciences of the University of Lisbon (2nd Semester)
+##### Knowledge Engineering, 2nd Semester
 
 Teaching Theoretical-Pratical classes, offered to students of Computer Science Engineering.
 
 Course covers machine learning fundamentals.
 
-### Advanced Machine Learning, Faculty of Sciences of the University of Lisbon (2nd Semester)
+##### Advanced Machine Learning, 2nd Semester
 
 Teaching theoretical-practical classes, offered to all Master Programs of the Department of Informatics.
 
 Course focuses on more advanced machine learning topics such as Ensemble Learning, Markov Models, Deep Learning and Reinforcement Learning.
 
-### Programming I, Faculty of Sciences of the University of Lisbon (1st Semester)
+#### Programming I, 1st Semester
 
 Teaching theoretical-practical classes, offered to first year students of 7 Bachelor degrees.
 
