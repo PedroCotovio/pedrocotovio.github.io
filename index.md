@@ -41,21 +41,27 @@ My interest go much further than these topics, so if you would like to collabora
 
 ## 2022/2023
 
-[comment]: <> (### Intelligent Systems, Faculty of Sciences of the University of Lisbon)
+### Computer Networks, Faculty of Sciences of the University of Lisbon (2nd Semester)
 
-[comment]: <> (Teaching Theoretical-Pratical classes, offered to different bachelor degrees within the Faculty, in the 2nd Semester.)
+Teaching Theoretical-Pratical classes, offered to students of Information Technologies.
 
-[comment]: <> (Class covers Artificial Intelligence Fundamentals, such as search algorithms, going all the way to Machine Learning Fundamentals.)
+Course covers computer networks fundamentals.
 
-[comment]: <> (### Advanced Machine Learning, Faculty of Sciences of the University of Lisbon)
+### Knowledge Engineering, Faculty of Sciences of the University of Lisbon (2nd Semester)
 
-[comment]: <> (Teaching Theoretical-Practical classes, offered to all Department of Informatics Masters' Programs in the 2nd Semester.)
+Teaching Theoretical-Pratical classes, offered to students of Computer Science Engineering.
 
-[comment]: <> (Class focuses on more advanced topics such as Ensemble Learning, Markov Models, Deep Learning and Reinforcement Learning.)
+Course covers machine learning fundamentals.
 
-### Programming I, Faculty of Sciences of the University of Lisbon
+### Advanced Machine Learning, Faculty of Sciences of the University of Lisbon (2nd Semester)
 
-Teaching Theoretical-Practical classes, offered to first year students of 7 Bachelor Programs.
+Teaching theoretical-practical classes, offered to all Master Programs of the Department of Informatics.
+
+Course focuses on more advanced machine learning topics such as Ensemble Learning, Markov Models, Deep Learning and Reinforcement Learning.
+
+### Programming I, Faculty of Sciences of the University of Lisbon (1st Semester)
+
+Teaching theoretical-practical classes, offered to first year students of 7 Bachelor degrees.
 
 Course focuses on programming fundamentals.
 
