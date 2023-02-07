@@ -47,13 +47,13 @@ Teaching Theoretical-Pratical classes, offered to students of Information Techno
 
 Course covers computer networks fundamentals.
 
-##### Knowledge Engineering, 2nd Semester
+#### Knowledge Engineering, 2nd Semester
 
 Teaching Theoretical-Pratical classes, offered to students of Computer Science Engineering.
 
 Course covers machine learning fundamentals.
 
-##### Advanced Machine Learning, 2nd Semester
+#### Advanced Machine Learning, 2nd Semester
 
 Teaching theoretical-practical classes, offered to all Master Programs of the Department of Informatics.
 
