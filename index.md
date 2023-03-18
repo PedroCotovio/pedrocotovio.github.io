@@ -9,11 +9,11 @@ title: Pedro Cotovio
 
 As a PhD student at the <a target="_blank" href="https://ciencias.ulisboa.pt/">Faculty of Sciences of the University of Lisbon</a> (FCUL), and a member of the <a target="_blank" href="https://www.lasige.pt/">LASIGE</a> research group, I'm passionate about bridging the gap between artificial neural networks and their biological counterparts.
 
-Under the supervision of <a target="_blank" href="http://www.di.fc.ul.pt/~catiapesquita/">Dr. Catia Pesquita</a>, an associate professor at FCUL, and <a target="_blank" href="https://www.city.ac.uk/about/people/academics/ernesto-jimenez-ruiz">Dr Ernesto Jiménez-Ruiz</a>, a Lecturer of Artificial Intelligence at <a target="_blank" href="https://www.city.ac.uk/about/schools/science-technology">School of Science & Technology of City, University of London </a>, I am working on using Neuro-Symbolic AI to improve Knowledge Graph Alignment.
+Under the supervision of <a target="_blank" href="http://www.di.fc.ul.pt/~catiapesquita/">Dr. Catia Pesquita</a>, an associate professor at FCUL, and <a target="_blank" href="https://www.city.ac.uk/about/people/academics/ernesto-jimenez-ruiz">Dr Ernesto Jiménez-Ruiz</a>, a Lecturer of Artificial Intelligence at <a target="_blank" href="https://www.city.ac.uk/about/schools/science-technology">School of Science & Technology of City, University of London </a> I am working on using Neuro-Symbolic AI to improve Knowledge Graph Alignment.
 
 Previously, I conducted research using deep reinforcement learning approaches to improve algorithms for n-way data analysis. 
 
-For a more detailed and structured overview of my work, please don't hesitate to c[contact me](#contact) to request my CV.
+For a more detailed and structured overview of my work, please don't hesitate to [contact me](#contact) to request my CV.
 
 <p align="center">
 Links:
