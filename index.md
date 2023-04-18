@@ -39,21 +39,19 @@ My interest go much further than these topics, so if you would like to collabora
 
 ## Teaching
 
-### 2022/2023, FCUL
-
-#### Computer Networks, 2nd Semester
+#### Computer Networks, Spring 2023
 
 Course covers computer networks fundamentals.
 
-#### Knowledge Engineering, 2nd Semester
+#### Knowledge Engineering, Spring 2023
 
 Course covers machine learning fundamentals.
 
-#### Advanced Machine Learning, 2nd Semester
+#### Advanced Machine Learning, Spring 2023
 
 Course focuses on more advanced machine learning topics such as Ensemble Learning, Markov Models, Deep Learning and Reinforcement Learning.
 
-#### Programming I, 1st Semester
+#### Programming I, Fall 2022
 
 Course focuses on programming fundamentals.
 
