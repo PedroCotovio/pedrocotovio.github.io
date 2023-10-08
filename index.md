@@ -39,6 +39,10 @@ My interest go much further than these topics, so if you would like to collabora
 
 ## Teaching
 
+#### Programming I, Fall 2023
+
+Course focuses on programming fundamentals.
+
 #### Computer Networks, Spring 2023
 
 Course covers computer networks fundamentals.
@@ -50,10 +54,6 @@ Course covers machine learning fundamentals.
 #### Advanced Machine Learning, Spring 2023
 
 Course focuses on more advanced machine learning topics such as Ensemble Learning, Markov Models, Deep Learning and Reinforcement Learning.
-
-#### Programming I, Fall 2022
-
-Course focuses on programming fundamentals.
 
 [comment]: <> (## Science Communication)
 
