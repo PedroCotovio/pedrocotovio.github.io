@@ -30,10 +30,7 @@ I am currently mainly interested Neuro-Symbolic AI but my interests expand to al
 * Neuro-Symbolic AI
 * Deep Learning
 * Reinforcement Learning
-* Bioinformatics
-* Semantic Web
 * Knowledge Graph Alignment / Ontology Matching
-* Cognition
 
 My interest go much further than these topics, so if you would like to collaborate feel free to [contact me](#contact).
 
