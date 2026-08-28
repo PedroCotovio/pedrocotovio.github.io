@@ -22,5 +22,5 @@ sass:
 nav:
  - name: "About"
    link: "./"
- - name: "CV"
-   link: "./cv.pdf"
+ # - name: "CV"
+ #   link: "./cv.pdf"
