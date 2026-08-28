@@ -14,7 +14,7 @@ I am supervised by <a target="_blank" href="http://www.di.fc.ul.pt/~catiapesquit
 
 Since 2024 I have led the Bio-ML track of the <a target="_blank" href="https://oaei.ontologymatching.org/">Ontology Alignment Evaluation Initiative</a> (OAEI), and I organise its new DISO track for 2026.
 
-During my Msc I worked on deep reinforcement learning for n-way data analysis.
+During my MSc I worked on deep reinforcement learning for n-way data analysis.
 
 <p align="center">
 Links:
