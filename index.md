@@ -40,7 +40,7 @@ If you would like to collaborate, feel free to [get in touch](#contact).
 
 #### Conference papers
 
-Dilworth, J.†, **Giesteira Cotovio, P.**†, Herron, D.†, Cripps, P., Dewdney, N., Pesquita, C., & Jiménez-Ruiz, E. (2026). Improving Interoperability among Defence and National Security Ontologies: Analysis and Evaluation Tasks. *ISWC 2026*, resource track. Accepted. [[arXiv](https://arxiv.org/abs/2608.05867)]
+Dilworth, J.†, **Giesteira Cotovio, P.**†, Herron, D.†, Cripps, P., Dewdney, N., Pesquita, C., & Jiménez-Ruiz, E. (2026). Improving Interoperability among Defence and National Security Ontologies: Analysis and Evaluation Tasks. *ISWC 2026*, Accepted. [[arXiv](https://arxiv.org/abs/2608.05867)]
 
 **Giesteira Cotovio, P.**, Nunes, S., Jiménez-Ruiz, E., & Pesquita, C. (2026). Interpretable Context-Aware Models Improve Expert Validation in Ontology Matching. *ESWC 2026*, 234–257. [[doi](https://doi.org/10.1007/978-3-032-25156-5_13)]
 
